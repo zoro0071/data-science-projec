@@ -47,7 +47,7 @@ SETUP AND RUNNING THE PROJECT
 STEP 1. To set up and run the project, follow these steps:
 
 Clone the repository to your local machine:
-git clone https://github.com/your-username/anomadata.git
+git clone https://github.com/zoro0071/data-science-projec.git
 
 STEP 2. Install the required dependencies:
 pip install -r requirements.txt
