@@ -56,6 +56,7 @@ STEP 3. Run the Jupyter Notebook or Python script to train the model and evaluat
 jupyter notebook anomadata.ipynb
 
 STEP 4. Follow the instructions in the notebook/script to preprocess the data, train the model, and evaluate its performance.
+The code will run each time if run in the same steps as in cells of jupyter notebook.
 
 CONCLUSION
 AnomaData is a comprehensive data science project that aims to predict machine breakdowns by detecting anomalies in sensor data. 
